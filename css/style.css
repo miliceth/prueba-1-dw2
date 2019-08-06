@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700,800&display=swap');
+body{
+	font-size: 14px;
+	color: #212529;
+}
+
+#home{
+background-color:#2E2727;	
+color:#fff;
+padding-top: 3%;
+}
+
+#home h1{
+margin-top: 30%;
+margin-left: -10%;
+font-size: 60px;
+font-weight: 500;
+}
+
+.parrafo{
+margin-left: -10%;
+font-size: 16px;
+}
+
+#trendy{
+padding: 8%;
+}
+
+#trendy h2{
+margin-top: 17%;
+font-size: 45px;
+}
+
+.texto{
+font-size: 16px;
+}
+
+#services{
+text-align: center;
+padding: 10%;
+}
+
+.titulo{
+font-size: 45px;
+}
+
+#products{
+background-color:#fee9da;
+padding: 3%;
+}
+
+.productos{
+margin-top: 50%;
+}
+
+#testimonial{
+text-align: center;
+}
+
+.comilla{
+font-size: 20px;
+text-align: center;
+}
+
+.margen{
+margin-top: 20%;
+}
+
+#contact{
+padding: 8%;
+}
+
+#review{
+text-align: center;
+}
+
+footer{
+text-align: center;
+color:#fff;
+background-color:#2E2727;
+padding: 5%;
+}
